@@ -8,7 +8,7 @@ http://opensource.org/licenses/mit-license.php
 
 
 ## Description
-##### Acceleration
+#### Acceleration
 This Acceleration is the 9DOF acceleration Arduino sketch that runs on Adafruit Trinket Pro (3V). It's necessary to add the  MPU9150 and XBee ZB for this system. We are currently developing that.
 
 
@@ -23,7 +23,7 @@ https://github.com/5ide6urnslab/PERCEPT
 ## Running the Example Project
 An example project is provided in the **/example/** folder.
 
-##### Resonance 1.01
+#### Resonance 1.01
 Coming soon...
 
 ## Reference
@@ -40,6 +40,6 @@ We have the following in reference.
    https://www.sparkfun.com
 
 ## Credit
-#####Resonance 1.01:
+####Resonance 1.01:
 Electronics:   Show Kawabata(5ide6urns lab)
 
