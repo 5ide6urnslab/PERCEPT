@@ -24,8 +24,7 @@ https://github.com/5ide6urnslab/PERCEPT
 An example project is provided in the **/example/** folder.
 
 ##### Resonance 1.01
-We are currently developing that.
-
+Coming soon...
 
 ## Reference
 We have the following in reference. 
