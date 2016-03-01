@@ -11,6 +11,7 @@ http://opensource.org/licenses/mit-license.php
 #### Acceleration
 This Acceleration is the 9DOF acceleration Arduino sketch that runs on Adafruit Trinket Pro (3V). It's necessary to add the  MPU9150 and XBee ZB for this system. We are currently developing that.
 
+
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/9DOF.jpg" />
 
 
