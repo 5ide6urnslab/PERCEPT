@@ -34,7 +34,7 @@ https://github.com/5ide6urnslab/PERCEPT
 An example project is provided in the **/example/** folder.
 
 #### Resonance 0.01
-Intermedia collaboration project vol.1 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Electronics). This Performance staged at the Studio Mecca, Tokyo, JAPAN in 01/13/2016. The Acceleration "MultiAccelerationSim" and "PerceptAcceleration" is used.
+Intermedia collaboration project vol.1 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Electronics). This Performance staged at the Studio Mecca, Tokyo, JAPAN in 01/13/2016. The Acceleration "MultiAccelerationSim" and "PerceptAcceleration" have been used.
 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087913843.jpg" width="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087897303.jpg" width="400px" />
