@@ -16,7 +16,7 @@ This Acceleration is the 9DOF acceleration Arduino sketch that runs on Adafruit 
 
 
 ## Installation
-First you need to download and install
+First you need to download and install (Arduino 1.6.4)
 https://www.arduino.cc/en/Guide/HomePage
 
 To get a copy of the repository you can download the source from
