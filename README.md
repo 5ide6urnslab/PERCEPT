@@ -34,14 +34,14 @@ https://github.com/5ide6urnslab/PERCEPT
 An example project is provided in the **/example/** folder.
 
 #### Resonance 0.01
-Intermedia collaboration project vol.1 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Prototyper, HCI researcher). This Performance staged at the Studio Mecca, Tokyo, JAPAN in 01/13/2016. The Acceleration "MultiAccelerationSim" and "PerceptAcceleration" is used.
+Intermedia collaboration project vol.1 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Electronics). This Performance staged at the Studio Mecca, Tokyo, JAPAN in 01/13/2016. The Acceleration "MultiAccelerationSim" and "PerceptAcceleration" is used.
 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087913843.jpg" width="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087897303.jpg" width="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/MultiAccelerationSim.png" width="400px" />
 
 #### Resonance 1.01
-Intermedia collaboration project vol.2 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Prototyper, HCI researcher). This Performance staged at the Aichi Arts Center, Aichi, JAPAN in 02/27/2016.  
+Intermedia collaboration project vol.2 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Electronics). This Performance staged at the Aichi Arts Center, Aichi, JAPAN in 02/27/2016.  
 
 ## Reference
 We have the following in reference. 
@@ -57,6 +57,16 @@ We have the following in reference.
    https://www.sparkfun.com
 
 ## Credit
-####Resonance 1.01:
-Electronics:   Show Kawabata(5ide6urns lab)
+####Resonance 0.01:
+Contemporary dancer, Choreographer: Naoko Ikegami
+http://www.naokoikegami.com
+
+Composer/Sound Programmer: Momoko Noguchi(PERCEPT.)
+http://www.momokonoguchi.com
+
+Electronics: Show Kawabata(PERCEPT.)
+http://dum6sen5e.com
+
+
+
 
