@@ -44,7 +44,7 @@ Intermedia collaboration project vol.1 with Naoko Ikegami (Contemporary dancer, 
 Intermedia collaboration project vol.2 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Electronics). This Performance staged at the Aichi Arts Center, Aichi, JAPAN in 02/27/2016.  
 
 ## Reference
-We have the following in reference. 
+Coming soon. 
 
 
 ## Copyright
