@@ -9,7 +9,7 @@ http://opensource.org/licenses/mit-license.php
 
 ## Description
 #### Acceleration
-This Acceleration is the 9DOF acceleration Arduino sketch that runs on Adafruit Trinket Pro (3V). It's necessary to add the  MPU9150 and XBee ZB for this system. We are currently developing that.
+This Acceleration is the 9DOF acceleration Arduino sketch that runs on Adafruit Trinket Pro (3V). It's necessary to add the  MPU9150 and XBee ZB for this system.
 
 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/9DOF.jpg" width="400px" />
@@ -70,7 +70,7 @@ http://www.sojamo.de/libraries/controlP5/
 
 ## Credit
 ####Resonance 0.01:
-Contemporary dancer, Choreographer: Naoko Ikegami (PERCEPT.)
+Contemporary dancer/Choreographer: Naoko Ikegami (PERCEPT.)
 http://www.naokoikegami.com
 
 Composer/Sound Programmer: Momoko Noguchi (PERCEPT.)
@@ -80,7 +80,7 @@ Electronics: Show Kawabata (PERCEPT.)
 http://dum6sen5e.com
 
 ####Resonance 1.01:
-Contemporary dancer, Choreographer: Naoko Ikegami (PERCEPT.)
+Contemporary dancer/Choreographer: Naoko Ikegami (PERCEPT.)
 http://www.naokoikegami.com
 
 Composer/Sound Programmer: Momoko Noguchi (PERCEPT.)
@@ -88,4 +88,3 @@ http://www.momokonoguchi.com
 
 Electronics: Show Kawabata (PERCEPT.)
 http://dum6sen5e.com
-
