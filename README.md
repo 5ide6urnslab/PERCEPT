@@ -38,6 +38,7 @@ Intermedia collaboration project with Naoko Ikegami (Contemporary dancer, Choreo
 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087913843.jpg" width="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087897303.jpg" width="400px" />
+<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/MultiAccelerationSim.png" width="400px" />
 
 #### Resonance 1.01
 
