@@ -36,7 +36,7 @@ An example project is provided in the **/example/** folder.
 #### Resonance 0.01
 Intermedia collaboration project with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Prototyper, HCI researcher). This Performance staged at the Studio Mecca, Harajuku, Tokyo.
 
-<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087913843.jpg" width="480px" />
+<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087913843.jpg" width="350px" /><img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087897303.jpg" width="350px" />
 
 #### Resonance 1.01
 
