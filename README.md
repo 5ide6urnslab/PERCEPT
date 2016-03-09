@@ -58,15 +58,22 @@ We have the following in reference.
 
 ## Credit
 ####Resonance 0.01:
-Contemporary dancer, Choreographer: Naoko Ikegami
+Contemporary dancer, Choreographer: Naoko Ikegami (PERCEPT.)
 http://www.naokoikegami.com
 
-Composer/Sound Programmer: Momoko Noguchi(PERCEPT.)
+Composer/Sound Programmer: Momoko Noguchi (PERCEPT.)
 http://www.momokonoguchi.com
 
-Electronics: Show Kawabata(PERCEPT.)
+Electronics: Show Kawabata (PERCEPT.)
 http://dum6sen5e.com
 
+####Resonance 1.01:
+Contemporary dancer, Choreographer: Naoko Ikegami (PERCEPT.)
+http://www.naokoikegami.com
 
+Composer/Sound Programmer: Momoko Noguchi (PERCEPT.)
+http://www.momokonoguchi.com
 
+Electronics: Show Kawabata (PERCEPT.)
+http://dum6sen5e.com
 
