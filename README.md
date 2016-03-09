@@ -14,11 +14,12 @@ This Acceleration is the 9DOF acceleration Arduino sketch that runs on Adafruit 
 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/9DOF.jpg" width="400px" />
 
-#### Tabic
-This Tabic is the Sensor "Tabi" + "Music". It is Arduino sketch that runs on Adafruit Trinket Pro (5V). It's necessary to add the Registor 100kΩ and Conductive Film, Aluminum for this system. We are currently develoing that.
+[](
+#### Tabic\
+This Tabic is the Sensor "Tabi" + "Music". It is Arduino sketch that runs on Adafruit Trinket Pro (5V). It's necessary to add the Registor 100kΩ and Conductive Film, Aluminum for this system. We are currently develoing that.\
 
-<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/Tabic.jpg" width="350px" />
-
+<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/Tabic.jpg" width="350px" />\
+)
 ## Installation
 (1) First you need to download and install (Arduino 1.6.4)
 https://www.arduino.cc/en/Guide/HomePage
