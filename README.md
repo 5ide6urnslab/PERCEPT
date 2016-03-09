@@ -26,6 +26,9 @@ https://www.arduino.cc/en/Guide/HomePage
 To get a copy of the repository you can download the source from
 https://github.com/5ide6urnslab/PERCEPT
 
+If you use the Acceleration simulator "MultiAccelerationSim", you must edit the following serial port of the Processing.
+
+<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/SerialPort.png" width="480px" />
 
 ## Running the Example Project
 An example project is provided in the **/example/** folder.
