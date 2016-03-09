@@ -47,8 +47,14 @@ Intermedia collaboration project vol.2 with Naoko Ikegami (Contemporary dancer, 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/SoundPerformancePlatform2016-2.jpg" width="400px" />
 
 ## Reference
-Coming soon. 
+(1) I2Cdev, I2C, MPU9150, 
+https://github.com/jrowberg/i2cdevlib
 
+(2) toxiclibs, 
+http://toxiclibs.org/downloads/
+
+(3) controlP5
+http://www.sojamo.de/libraries/controlP5/
 
 ## Copyright
 © 2015 All Rights Reserved.  Arduino is a trademark of Arduino SA.
