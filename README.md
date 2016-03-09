@@ -1,7 +1,7 @@
 # PERCEPT
 This project is the Intermedia project to which perception is expressed.
 
-Copyright (c) 2016- 5ide6urns lab All right reserved. 
+Copyright (c) 2016 PERCEPT. All right reserved. 
 
 Released under the MIT license. 
 http://opensource.org/licenses/mit-license.php
