@@ -40,6 +40,8 @@ Intermedia collaboration project vol.1 with Naoko Ikegami (Contemporary dancer, 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/FB_IMG_1455087897303.jpg" width="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/MultiAccelerationSim.png" width="400px" />
 
+
+
 #### Resonance 1.01
 Intermedia collaboration project vol.2 with Naoko Ikegami (Contemporary dancer, Choreographer) and Momoko Noguchi (Composer, Sound programmer) , Show Kawabata(Electronics). This Performance staged at the Aichi Arts Center, Aichi, JAPAN in 02/27/2016. This Sample is coming soon...
 
