@@ -1,5 +1,5 @@
 # PERCEPT
-This project is the Intermedia project to which perception is expressed. 
+This repo is the Sensor System of Arduino Sketch and Circuit Diagram for the PERCEPT. project. The PERCEPT. project is the Intermedia project to which perception is expressed. 
 
 Copyright (c) 2016 PERCEPT. All right reserved. 
 <br><br>
