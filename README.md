@@ -1,7 +1,5 @@
 # PERCEPT
 This repo is the Sensor System of Arduino Sketch and Circuit Diagram for the PERCEPT. project. This project is the Intermedia project to which perception is expressed. 
-
-Copyright (c) 2016 PERCEPT. All right reserved. 
 <br><br>
 
 #### About this manual license.
