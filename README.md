@@ -1,8 +1,8 @@
 # PERCEPT
-This project is the Intermedia project to which perception is expressed.
+This project is the Intermedia project to which perception is expressed. 
 
 Copyright (c) 2016 PERCEPT. All right reserved. 
-<br><br>
+<br>
 
 ##### About this manual license.
 
