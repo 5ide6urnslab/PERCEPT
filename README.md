@@ -58,6 +58,7 @@ Intermedia collaboration project vol.2 with Naoko Ikegami (Contemporary dancer, 
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/SPP2016_0246.jpg" width="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/SPP2016_0174.jpg" height="400px" />
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/SPP2016_3316.jpg" height="400px" />
+<img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/SPP2016_0279.jpg" height="400px" />
 
 Photo by 羽鳥直志
 
