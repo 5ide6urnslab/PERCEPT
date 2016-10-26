@@ -1,16 +1,5 @@
 # PERCEPT
 This repo is the Sensor System of Arduino Sketch and Circuit Diagram for the PERCEPT. project. This project is the Intermedia project to which perception is expressed. 
-<br><br>
-
-#### About this manual license.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />PERCEPT. is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-<br><br>
-
-#### About this software license.
-
-Released under the MIT license. http://opensource.org/licenses/mit-license.php
-
 
 ## Description
 #### Acceleration
@@ -26,10 +15,10 @@ This Tabic is the Sensor "Tabi" + "Music". It is Arduino sketch that runs on Ada
 <img class="photo" src="https://github.com/5ide6urnslab/PERCEPT/blob/master/resource/Tabic.jpg" width="350px" />
 -->
 ## Installation
-(1) First you need to download and install (Arduino 1.6.4)
+(1) First you need to download and install (Arduino 1.6.4)  
 https://www.arduino.cc/en/Guide/HomePage
 
-(2) To get a copy of the repository you can download the source from
+(2) To get a copy of the repository you can download the source from  
 https://github.com/5ide6urnslab/PERCEPT
 
 (3) If you use the Acceleration "MultiAccelerationSim" simulator, you must edit the following serial port of the Processing.
@@ -64,41 +53,36 @@ Photo by Hatori Naoshi
 
 
 ## Reference
-(1) I2Cdev, I2C, MPU9150
+(1) I2Cdev, I2C, MPU9150  
 https://github.com/jrowberg/i2cdevlib
 
-(2) toxiclibs
+(2) toxiclibs  
 http://toxiclibs.org/downloads/
 
-(3) controlP5
+(3) controlP5  
 http://www.sojamo.de/libraries/controlP5/
 
 ## Copyright
-© 2015 All Rights Reserved.  Arduino is a trademark of Arduino SA.
-   
+© 2015 All Rights Reserved.  Arduino is a trademark of Arduino SA.  
    https://www.arduino.cc
 
-© 2015 All Rights Reserved. Sparkfun is a trademark of Sparkfun Electronics.
-
+© 2015 All Rights Reserved. Sparkfun is a trademark of Sparkfun Electronics.  
    https://www.sparkfun.com
+
+## License
+#### About this manual.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />PERCEPT. is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+#### About this software.
+Released under the MIT license. http://opensource.org/licenses/mit-license.php
 
 ## Credit
 ####Resonance 0.01:
-Contemporary dancer/Choreographer: Naoko Ikegami (PERCEPT.)
-http://www.naokoikegami.com
-
-Composer/Sound Programmer: Momoko Noguchi (PERCEPT.)
-http://www.momokonoguchi.com
-
-Electronics: Show Kawabata (PERCEPT.)
-http://dum6sen5e.com
+Contemporary dancer/Choreographer: Naoko Ikegami (PERCEPT.) http://www.naokoikegami.com  
+Composer/Sound Programmer: Momoko Noguchi (PERCEPT.) http://www.momokonoguchi.com  
+Electronics: Show Kawabata (PERCEPT.) http://dum6sen5e.com
 
 ####Resonance 1.01:
-Contemporary dancer/Choreographer: Naoko Ikegami (PERCEPT.)
-http://www.naokoikegami.com
-
-Composer/Sound Programmer: Momoko Noguchi (PERCEPT.)
-http://www.momokonoguchi.com
-
-Electronics: Show Kawabata (PERCEPT.)
-http://dum6sen5e.com
+Contemporary dancer/Choreographer: Naoko Ikegami (PERCEPT.) http://www.naokoikegami.com  
+Composer/Sound Programmer: Momoko Noguchi (PERCEPT.) http://www.momokonoguchi.com  
+Electronics: Show Kawabata (PERCEPT.) http://dum6sen5e.com
