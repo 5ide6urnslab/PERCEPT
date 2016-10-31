@@ -63,9 +63,6 @@ http://toxiclibs.org/downloads/
 http://www.sojamo.de/libraries/controlP5/
 
 ## Copyright
-© 2015 All Rights Reserved.  Arduino is a trademark of Arduino SA.  
-   https://www.arduino.cc
-
 © 2015 All Rights Reserved. Sparkfun is a trademark of Sparkfun Electronics.  
    https://www.sparkfun.com
 
