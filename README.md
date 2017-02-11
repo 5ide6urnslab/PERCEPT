@@ -77,9 +77,9 @@ Released under the MIT license. http://opensource.org/licenses/mit-license.php
 ####Resonance 0.01:
 Contemporary dancer/Choreographer: [Naoko Ikegami](http://www.naokoikegami.com) (PERCEPT.)  
 Composer/Sound Programmer: [Momoko Noguchi](http://www.momokonoguchi.com) (PERCEPT.)  
-Electronics: [Show Kawabata](http://cargocollective.com/dum6sen5e) (PERCEPT.)
+Electronics: [Show Kawabata](http://www.dum6sen5e.com) (PERCEPT.)
 
 ####Resonance 1.01:
 Contemporary dancer/Choreographer: [Naoko Ikegami](http://www.naokoikegami.com) (PERCEPT.)    
 Composer/Sound Programmer: [Momoko Noguchi](http://www.momokonoguchi.com) (PERCEPT.)  
-Electronics: [Show Kawabata](http://dum6sen5e.com) (PERCEPT.)  
+Electronics: [Show Kawabata](http://www.dum6sen5e.com) (PERCEPT.)  
