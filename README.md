@@ -74,9 +74,9 @@ http://www.sojamo.de/libraries/controlP5/
 ####Resonance 0.01:
 Contemporary dancer/Choreographer: [Naoko Ikegami](http://www.naokoikegami.com) (PERCEPT.)  
 Composer/Sound Programmer: [Momoko Noguchi](http://www.momokonoguchi.com) (PERCEPT.)  
-Electronics: [Show Kawabata](http://www.dum6sen5e.com) (PERCEPT.)
+Electronics: [Show Kawabata](http://www.showkawabata.net) (PERCEPT.)
 
 ####Resonance 1.01:
 Contemporary dancer/Choreographer: [Naoko Ikegami](http://www.naokoikegami.com) (PERCEPT.)    
 Composer/Sound Programmer: [Momoko Noguchi](http://www.momokonoguchi.com) (PERCEPT.)  
-Electronics: [Show Kawabata](http://www.dum6sen5e.com) (PERCEPT.)  
+Electronics: [Show Kawabata](http://www.showkawabata.net) (PERCEPT.)  
